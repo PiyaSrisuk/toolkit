@@ -16,4 +16,4 @@ The included tools are:
 
 ## Installation
 
-`go get -u github.com/piyasrisuk/toolkit`
+`go get -u github.com/PiyaSrisuk/toolkit`
